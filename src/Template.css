@@ -1,0 +1,28 @@
+.alert-panel {
+    background-color: rgba(0,0,0,.3);
+    border-radius: 6px;
+    padding: 10px 15px;
+    color: #fff;
+    font-family: 'Microsoft YaHei', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    position: fixed;
+    z-index: 1000;
+    top: 50%;
+    left: 50%;
+}
+
+.alert-panel > div {
+    float: left;
+}
+
+.alert-panel > .alert-icon-box,.alert-panel > .alert-icon-close {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.alert-panel > .alert-massge {
+    line-height: 30px;
+    padding: 0 15px; 
+    margin-right: 5px;
+}
