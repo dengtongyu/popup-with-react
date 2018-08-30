@@ -1,6 +1,6 @@
 {
   "name": "popup-with-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "popup with react",
   "main": "build/index.js",
   "scripts": {
@@ -15,11 +15,11 @@
   "author": "dengtongyu",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-proptypes": "^1.0.0"
   },
   "devDependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-proptypes": "^1.0.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",

@@ -3,11 +3,11 @@
 ![popup-with-react](https://raw.githubusercontent.com/dengtongyu/popup-with-react/master/res/popup-with-react.png) 
 
 ## 前言
-popup-with-react 用react作为模板开发，适用于create-react-app。
+popup-with-react 用react作为模板开发，适用于create-react-app。不兼容低版本IE浏览器。
 
 ## 运行
 ```sh
-npm install popup-with-react
+npm install popup-with-react --dev-save
 ```
 
 ## 用法
